@@ -1,0 +1,15 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: plum;
+    text-align: center;
+}
+
+p {
+    background-color: azure;
+    display: inline-flex;
+    align-items: center;
+    font-size: large;
+    height: 100px;
+    width: 200px;
+}
